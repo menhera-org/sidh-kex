@@ -3,6 +3,7 @@ name = "sidh-kex"
 version = "0.1.0"
 authors = ["metastable-void <git@yuka.h09.eu>"]
 edition = "2018"
+license = "Apache-2.0"
 
 [lib]
 crate-type = ["cdylib", "rlib"]
